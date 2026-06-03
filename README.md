@@ -123,7 +123,7 @@ honey = {
 
 | 🗂️ Public Repos | ⭐ Total Stars | 🌍 Location |
 |:---:|:---:|:---:|
-| 17 | Growing... | Chandigarh, India |
+| 18 | Growing... | Chandigarh, India |
 
 ---
 
