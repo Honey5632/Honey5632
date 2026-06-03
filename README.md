@@ -119,15 +119,11 @@ honey = {
 
 ---
 
-## 📈 GitHub Stats
+## 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Honey5632&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Honey5632&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
+| 🗂️ Public Repos | ⭐ Total Stars | 🌍 Location |
+|:---:|:---:|:---:|
+| 4 | Growing... | Punjab, India |
 
 ---
 
